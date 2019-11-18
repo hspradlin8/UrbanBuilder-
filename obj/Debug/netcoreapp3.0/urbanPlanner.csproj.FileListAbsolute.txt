@@ -1,0 +1,11 @@
+/Users/Heidi/workspace/CSharpDemos/urbanPlanner/bin/Debug/netcoreapp3.0/urbanPlanner
+/Users/Heidi/workspace/CSharpDemos/urbanPlanner/bin/Debug/netcoreapp3.0/urbanPlanner.deps.json
+/Users/Heidi/workspace/CSharpDemos/urbanPlanner/bin/Debug/netcoreapp3.0/urbanPlanner.runtimeconfig.json
+/Users/Heidi/workspace/CSharpDemos/urbanPlanner/bin/Debug/netcoreapp3.0/urbanPlanner.runtimeconfig.dev.json
+/Users/Heidi/workspace/CSharpDemos/urbanPlanner/bin/Debug/netcoreapp3.0/urbanPlanner.dll
+/Users/Heidi/workspace/CSharpDemos/urbanPlanner/bin/Debug/netcoreapp3.0/urbanPlanner.pdb
+/Users/Heidi/workspace/CSharpDemos/urbanPlanner/obj/Debug/netcoreapp3.0/urbanPlanner.csprojAssemblyReference.cache
+/Users/Heidi/workspace/CSharpDemos/urbanPlanner/obj/Debug/netcoreapp3.0/urbanPlanner.AssemblyInfoInputs.cache
+/Users/Heidi/workspace/CSharpDemos/urbanPlanner/obj/Debug/netcoreapp3.0/urbanPlanner.AssemblyInfo.cs
+/Users/Heidi/workspace/CSharpDemos/urbanPlanner/obj/Debug/netcoreapp3.0/urbanPlanner.dll
+/Users/Heidi/workspace/CSharpDemos/urbanPlanner/obj/Debug/netcoreapp3.0/urbanPlanner.pdb
