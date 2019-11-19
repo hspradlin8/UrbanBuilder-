@@ -33,6 +33,9 @@ namespace Planner
                 Stories = 13,
             };
             // Have business people in your city purchase each of your buildings.
+            // Edward.Construct();
+            // Frankenstein.Construct();
+            // LilJerry.Construct();
 
             Edward.Purchase("David");
             Frankenstein.Purchase("Lauren");
@@ -41,6 +44,17 @@ namespace Planner
             Console.WriteLine(Edward.Description);
             Console.WriteLine(Frankenstein.Description);
             Console.WriteLine(LilJerry.Description);
+
+            City megalopolis = new City("Nashville", "Jim Shulman", 1799);
+            megalopolis.ListOfBuildings.Add(Edward);
+            megalopolis.ListOfBuildings.Add(Frankenstein);
+            megalopolis.ListOfBuildings.Add(LilJerry);
+
+            foreach (Building building in megalopolis.ListOfBuildings)
+            {
+                Console.WriteLine(building.Description);
+            }
+
         }
     }
 }
